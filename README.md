@@ -103,10 +103,6 @@ Developing HDStream taught me:
 
 ![TV Shows](screenshots/tvshows.png)
 
-#### Continue Watching
-
-![Continue Watching](screenshots/continue-watching.png)
-
 #### Settings
 
 ##### Profile
