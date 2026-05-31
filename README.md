@@ -87,24 +87,42 @@ Developing HDStream taught me:
 
 #### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/homepage.png)
 
 #### Movie Details
 
-![Movie Details](screenshots/movie-page.png)
+![Movie Details](screenshots/moviepage.png)
 
-#### Search & Discovery
+#### Search / Filters / Genres
 
-![Search](screenshots/search.png)
+![Search](screenshots/filters.png)
+
+![Genres](screenshots/genres.png)
+
+#### TV Shows
+
+![TV Shows](screenshots/tvshows.png)
 
 #### Continue Watching
 
 ![Continue Watching](screenshots/continue-watching.png)
 
-#### Security Settings
+#### Settings
+
+##### Profile
+
+![Profile](screenshots/profile.png)
+
+##### Themes
+
+![Appearance](screenshots/appearance.png)
+
+##### Security
 
 ![Security](screenshots/security.png)
 
 #### Media Player
+
+> Obfuscated movie for copyright purposes
 
 ![Player](screenshots/player.png)
